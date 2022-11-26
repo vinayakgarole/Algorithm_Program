@@ -17,7 +17,7 @@ public class Permutation {
 
     public static void main(String[] args) {
 
-        String str = "AB";
+        String str = "ABC";
         print(str, "", 0);
     }
 }

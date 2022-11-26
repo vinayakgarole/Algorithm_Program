@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="404e8164-c74d-48e6-a043-c23e1a063da4" name="Changes" comment="" />
+    <list default="true" id="404e8164-c74d-48e6-a043-c23e1a063da4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Permutation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Anagram">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Anagram" />
       <module name="Algorithm_Program" />
@@ -86,12 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.PrimeNumber" />
+      <module name="Algorithm_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.Anagram" />
       </list>
     </recent_temporary>
   </component>
