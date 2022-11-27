@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e8164-c74d-48e6-a043-c23e1a063da4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/BinarySearchWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/PrimeNumber.java" afterDir="false" />
