@@ -8,7 +8,6 @@ public class Anagram {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
         System.out.println("Enter the 1st word: ");
         String s1 = sc.next();
         System.out.println("Enter the 2nd word: ");
